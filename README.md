@@ -8,13 +8,14 @@
     <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:react.svg?color=%23888888"></a>
     &nbsp;
     &nbsp;
-    <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:gopher.svg"></a>
+    <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:supabase-icon.svg?color=%23888888"></a>
     &nbsp;
     &nbsp;
     <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:nodejs-icon.svg?color=%23888888"></a>
     &nbsp;
     &nbsp;
-    <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:supabase-icon.svg?color=%23888888"></a>
+    <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:gopher.svg"></a>
+    
 </div>
 
 
