@@ -8,7 +8,7 @@
     <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:react.svg?color=%23888888"></a>
     &nbsp;
     &nbsp;
-    <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:vue.svg?color=%23888888"></a>
+    <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:gopher.svg"></a>
     &nbsp;
     &nbsp;
     <a href='#'><img width="24" height="24" src="https://api.iconify.design/logos:nodejs-icon.svg?color=%23888888"></a>
