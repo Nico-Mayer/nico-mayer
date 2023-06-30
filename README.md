@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm [Nico](nima94.vercel.app)</h2>
+<h2 align="center">Hi 👋, I'm <a href='nima94.vercel.app'>Nico</a></h2>
 <h3 align="center">Media Engineering Student at Nuernberg Institute of Technology</h3>
 
 <div align="center">
